@@ -8,8 +8,9 @@ This Python program generates a subnet of IP addresses. The user must input a Cl
 
 ### Output
 - Number of Networks Created
-- Network ID
-- Range
-- Broadcast Address
+- List of Subnets
+  - Network ID
+  - Range
+  - Broadcast Address
 - Subnet Mask
 - CIDR Notation
